@@ -2,3 +2,4 @@
 .idea/*
 terminal/__pycache__/*
 compiler/__pycache__/*
+venv/
